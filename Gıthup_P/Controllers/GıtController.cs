@@ -11,6 +11,7 @@ namespace Gıthup_P.Controllers
         // GET: Gıt
         public ActionResult Index()
         {
+            //.....ı|ı|ı|ı|ı|
             return View();
         }
     }
